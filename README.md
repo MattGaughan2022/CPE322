@@ -4,7 +4,7 @@ ___
 ## Labs
 [Lab 1](https://github.com/MattGaughan2022/CPE322/blob/main/Lab%201.md)
 
-[Lab 2]()
+[Lab 2](https://github.com/MattGaughan2022/CPE322/blob/main/Lab%202.md)
 
 [Lab 3]()
 
