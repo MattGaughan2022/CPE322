@@ -6,6 +6,6 @@ ___
 
 [Lab 2](https://github.com/MattGaughan2022/CPE322/blob/main/Lab%202.md)
 
-[Lab 3]()
+[Lab 3](https://github.com/MattGaughan2022/CPE322/blob/main/Lab%203.md)
 
 Lab 4
